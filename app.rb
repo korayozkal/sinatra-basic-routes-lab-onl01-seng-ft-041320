@@ -7,3 +7,8 @@ get '/name' do
 "My name is __"
 end
 
+get '/medicines' do
+  @medicines = Medicine.all
+ 
+  erb :'medicines/index.html.erb'
+end
