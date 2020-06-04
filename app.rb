@@ -9,7 +9,7 @@ get '/hometown' do
 "My name is "
 end
 
-get '/name' do
+get '/favorite-song' do
 "My name is "
 end
 
