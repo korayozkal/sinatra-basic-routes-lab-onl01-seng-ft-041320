@@ -5,5 +5,13 @@ get '/name' do
 "My name is "
 end
 
+get '/name' do
+"My name is "
+end
+
+get '/name' do
+"My name is "
+end
+
 
 end 
