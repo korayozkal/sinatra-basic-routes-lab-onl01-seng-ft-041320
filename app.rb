@@ -6,7 +6,7 @@ get '/name' do
 end
 
 get '/hometown' do
-"My name is "
+"My hometown is"
 end
 
 get '/favorite-song' do
